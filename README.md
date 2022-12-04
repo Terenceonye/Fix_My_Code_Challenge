@@ -30,4 +30,4 @@ Directory Name | Description
 0x00-challenge | Main directory of all files
 
 ## Author
-Heindrick Cheung
+Terence Onyeweke
